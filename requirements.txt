@@ -2,4 +2,3 @@ streamlit==1.32.0
 pandas==2.2.2
 matplotlib==3.7.5
 openpyxl==3.1.2
-pillow==10.2.0
